@@ -3,7 +3,7 @@
     android:layout_height="48dp"
     android:layout_width="48dp">
     <item
-        android:id="@+id/college"
+        android:id="@+id/collegelocal"
         android:title="college"
         android:icon="@drawable/nav_college_social"
         />
